@@ -1,2 +1,2 @@
 print("main page")
-print("this is my project")
+print("this is my first project.")
